@@ -2,9 +2,9 @@
 
 #====================================================
 # System Request:Ubuntu 18.04lts/20.04lts/22.04lts
-# Author:	281677160
+# Author:	bootli
 # Dscription: Compile openwrt firmware
-# github: https://github.com/281677160/build-actions
+# github: https://github.com/bootli/build-actions
 #====================================================
 
 # 字体颜色配置
